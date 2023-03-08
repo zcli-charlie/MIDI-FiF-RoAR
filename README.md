@@ -1,6 +1,25 @@
 # MIDI-FiF-RoAR
 This is the repo for MIDI-FiF-RoAR. The official code release of the paper “**Fine-grained Position Helps Memorizing More, A Novel Music Compound Transformer Model with Feature Interaction Fusion**”.
 
+## Citing MIDI-FiF-RoAR
+
+```
+@article{li2023midififroar,
+  title={*Fine-grained Position Helps Memorizing More, A Novel Music Compound Transformer Model with Feature Interaction Fusion},
+  author={Li, Zuchao and Gong, Ruhang and Chen, Yineng and Su, Kehua},
+  journal={AAAI},
+  year={2023}
+}
+```
+
+
+## Acknowledgement
+
+Part of our codes are adapted from [ScienceQA](https://github.com/wazenmai/MIDI-BERT) and [Transformers](https://github.com/huggingface/transformers).
+
+We thank Yi-Hui (Sophia) Chou, I-Chun (Bronwin) Chen for providing the codebase for baselines.
+
+
 ## Installation
 * Python3
 * Install generally used packages for MIDI-FiF-RoAR:
