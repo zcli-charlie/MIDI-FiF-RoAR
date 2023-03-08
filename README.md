@@ -5,7 +5,7 @@ This is the repo for MIDI-FiF-RoAR. The official code release of the paper “**
 
 ```
 @article{li2023midififroar,
-  title={*Fine-grained Position Helps Memorizing More, A Novel Music Compound Transformer Model with Feature Interaction Fusion},
+  title={Fine-grained Position Helps Memorizing More, A Novel Music Compound Transformer Model with Feature Interaction Fusion},
   author={Li, Zuchao and Gong, Ruhang and Chen, Yineng and Su, Kehua},
   journal={AAAI},
   year={2023}
